@@ -7,3 +7,6 @@
 [submodule "cs112-requestify"]
 	path = cs112-requestify
 	url = https://github.com/sgilfeather/cs112-requestify.git
+[submodule "cs112-cache"]
+	path = cs112-cache
+	url = https://github.com/sgilfeather/cs112-cache.git
