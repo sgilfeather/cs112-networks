@@ -4,3 +4,6 @@
 [submodule "cs112-ftp"]
 	path = cs112-ftp
 	url = https://github.com/sgilfeather/cs112-ftp
+[submodule "cs112-requestify"]
+	path = cs112-requestify
+	url = https://github.com/sgilfeather/cs112-requestify.git
