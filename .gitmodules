@@ -1,0 +1,3 @@
+[submodule "cs112-http-proxy"]
+	path = cs112-http-proxy
+	url = https://github.com/sgilfeather/cs112-http-proxy.git
